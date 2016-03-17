@@ -1,2 +1,2 @@
-exercism fetch python hellow-world
+exercism fetch python hello-world
 
